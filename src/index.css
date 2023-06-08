@@ -342,7 +342,8 @@ input::placeholder{
   padding: 100px;
   background-size: cover;
   background-repeat: no-repeat;
-  background-image: url(./images/background.jpg);
+  /* background-image: url(./images/background.jpg); */
+  background: linear-gradient(to right, #4e54c8, #8f94fb);
 }
 
 .food-section{
